@@ -23,7 +23,8 @@ Use this document as a starting point for the Class 6 exercise. Please note that
    git diff README.md
 
 4. Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
-   <your-answer-here>
+   git log
+   git diff 101d0e03d4240eeae4bb087ef8889d9812362721
 
 5. Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
    <your-answer-here>
